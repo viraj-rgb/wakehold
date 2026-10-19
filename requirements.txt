@@ -1,0 +1,4 @@
+PyQt6>=6.5
+psutil>=5.9
+pytest>=7  # tests only
+pyinstaller>=6  # build only
